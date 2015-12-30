@@ -1,6 +1,6 @@
 name: thebibleshop
 favicon: null
-layout_spectrum: 0.942928277188912
+layout_spectrum: 0.50196
 typography_spectrum: 0.028993993531912565
 title: The Bible Shop
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#f3efe3'
+    - '#ba7d47'
+    - '#ab2b00'
+    - '#01653c'
   brandStrength: 0.0282300494145602
   lightness: 0.8322242242284119
   saturation: 0.060777013655751944
