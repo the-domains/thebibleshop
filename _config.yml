@@ -2,6 +2,7 @@ name: thebibleshop
 favicon: null
 layout_spectrum: 0.942928277188912
 typography_spectrum: 0.028993993531912565
+title: The Bible Shop
 cta:
   domain: null
   bucket: null
